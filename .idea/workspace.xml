@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6c5295d-fbf5-4fdd-bb4c-510a0e9126de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2020_10_26_154345_create_employee_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_10_26_154345_create_employees_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/EmployeeSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/EmployeeSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/employee_list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/employee_list.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="e6c5295d-fbf5-4fdd-bb4c-510a0e9126de" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +143,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jQ8F8i0BY9aQiSQ80iKg0M7YgU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -160,7 +152,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../davaleba1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -181,6 +173,7 @@
       <workItem from="1603724849635" duration="5453000" />
       <workItem from="1603730776475" duration="25000" />
       <workItem from="1603730802250" duration="854000" />
+      <workItem from="1603731721218" duration="506000" />
     </task>
     <servers />
   </component>
@@ -197,6 +190,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="170" y="38" width="800" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603726971742">
@@ -227,10 +221,10 @@
       <screen x="0" y="22" width="1366" height="746" />
     </state>
     <state x="483" y="248" width="389" height="296" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.22.1366.746@0.22.1366.746" timestamp="1603729191478" />
-    <state x="666" y="249" width="659" height="783" key="find.popup" timestamp="1603731574254">
+    <state x="666" y="249" width="659" height="783" key="find.popup" timestamp="1603731747775">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="439" y="179" width="487" height="432" key="find.popup/0.22.1366.746@0.22.1366.746" timestamp="1603730184209" />
-    <state x="666" y="249" width="659" height="783" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1603731574254" />
+    <state x="666" y="249" width="659" height="783" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1603731747775" />
   </component>
 </project>

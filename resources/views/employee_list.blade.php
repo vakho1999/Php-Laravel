@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-@section('content')
+@section('Data Title')
 
 @show
 <h1>Employee Info</h1>
